@@ -41,6 +41,18 @@
   font-family:"Norse-Bold";
 }
 
+.credit{
+  position:relative;
+  top:80%;
+  color:white;
+  text-align:center;
+  font-size:1rem;
+}
+
+.credit a{
+  color:white;
+}
+
 .dummy-text{
   padding:80px 40px 20px;
   font-weight:bold;
@@ -67,11 +79,11 @@ input{
 }
 
 .middle,.bottom{
-  padding-left:40px;
+  padding-left:100px;
 }
 
 .middle h2{
-  margin-bottom:20px;
+  margin:20px auto;
   font-size:20px;
 }
 
